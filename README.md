@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LBAW's framework
 
 ## Introduction
@@ -327,3 +328,7 @@ root@2804d54698c0:/# tail -f /var/log/nginx/access.log   # follow the accesses
 
 You can stop the container with `ctrl+c` on the terminal running it, or with `docker stop lbaw21XX` on another terminal.
 -- LBAW, 2021
+=======
+# FEUP-LBAW
+Code developed for the LBAW Curricular Unit
+>>>>>>> a466dfdf98b6e85ce73a712a3b6154e1bd54b110
